@@ -82,6 +82,8 @@ Part of the codes are adapted from [Harrer, M., Cuijpers, P., Furukawa, T.A., & 
 <!-- GETTING STARTED -->
 ## Getting Started
 
+Important: Once you have downloaded the scripts, you will need to adapt the paths to the folder where they are located on your PC.
+The current scripts have been adapted to our data set and the type of analysis we were interested in, so there may be a better pipeline that fits your specific data. 
 ### R version
 
 To get a local copy up and running install R software (version R i386 3.4.2) (R Core Team, 2017).
