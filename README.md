@@ -123,6 +123,7 @@ Elisa Lancini, MSc
 Project Link: [https://github.com/ElisaLancini/meta-analysis/](https://github.com/ElisaLancini/meta-analysis/)
 
 <!-- CONTRIBUTING -->
+## Contributing
 
 A special thanks to the contributors who provided additional content in some codes:
 
