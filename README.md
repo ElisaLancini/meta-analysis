@@ -1,6 +1,6 @@
 [![ResearchGate][researchgate-shield]][researchgate-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter-shield]][Twitter-url]
+[![Twitter][Twitter-shield]][Twitter-url]
 
 
 
