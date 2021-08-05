@@ -23,7 +23,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#methods">Methods</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -47,32 +46,6 @@
 
 The noradrenergic system shows pathological modifications in aging and neurodegenerative diseases. We summarized data of studies reporting CSF NA or MHPG levels and PET MeNER measures, in controls as well as PD and ADD patients. The effect sizes obtained from the comparison between PD/ADD and control groups were combined into a pooled effect size estimate.
 DOI: XXXXXXXX
-
-### Methods:
-
-<p align="left">
-  <h4 align="left"> - Effect sizes and Welch's test:</h3>
-</p>
-For every article, independent Welch’s t-test was conducted to assess mean differences between control and PD or ADD groups. Then, the standardized mean differences (SMD) were calculated with Hedge’s g correction for small samples (Lakens, 2013). 
-<p align="left">
-  <h4 align="left"> - Meta-analysis and forestplot:</h3>
-</p>
-Single studies effect sizes were combined with a random-effect mixed-model meta-analysis using the metagen function from R package meta (Viechtbauer, 2010).The estimation of the average true effect (μ) was calculated with a 95% confidence interval and the between-study-variance using the tau-squared estimator (τ2). To control for the small number of studies included per group, we applied the adjustment method proposed by Hartung-Knapp-Sidik-Jonkman (HKSJ)
-The causes of the remaining statistical heterogeneity were investigated by (1) identifying statistical outliers and (2) potential influential cases. 
-
-  * (1) if the upper bound of the 95% confidence interval of the effect size estimate was lower than the lower bound of the pooled effect confidence interval (i.e., extremely small effects) or if the lower bound of the 95% confidence interval of the effect size was higher than the upper bound of the pooled effect confidence interval. These extreme effect sizes were identified with the R function find.outliers. 
-  * (2) studies that exert a very high influence on overall results, using the Leave-One-Out method and Graphic Display of Heterogeneity plots using R (R Core Team, 2017).
-
-The pooled effect sizes were included in a forestplot. The studies were characterized on the basis of the analytical method used to evaluate the noradrenergic levels of CSF, coded through the different shapes of the data points, and severity, coded through the different colors of the data points
-
-<p align="left">
-  <h4 align="left"> - Meta-regression:</h3>
-</p>
-Meta-regressions were performed to assess the influence of hypothesized explanatory variables.
-<p align="left">
-  <h4 align="left"> - Foresplot and averaged mean differences with grouped data:</h3>
-</p>
-The articles that did not report a comparison in CSF measures between ADD or PD groups and a control group were not suitable for the effect size calculation and therefore not included in the meta-analysis. However, in order to assess absolute differences in CSF measures across studies and between groups (HC; ADD; PD), data from these studies were grouped together with data from the papers included in the meta-analysis in a forest plot of means and standard deviations. The arithmetical averaged mean was calculated for each group (HC; ADD; PD) and measure (MHPG; NA), and a value of 2 standard deviations from the arithmetical averaged mean was used to detect outlier data in every group. Studies identified as outliers were removed from subsequent analyses. An averaged mean and SD was calculated for each group (HC; ADD; PD) and measure (MHPG; NA). Differences in the averaged mean between groups were calculated using the Kruskal-Wallis test. This analysis was not conducted for PET studies as the groups (PD; HC) were composed of only two studies. For the data visualization plot, weighted averaged means of the groups were calculated using the sample size as weight.
 
 ### Built With
 
