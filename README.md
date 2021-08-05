@@ -93,7 +93,6 @@ Elisa Lancini, MSc
 * [Twitter](https://twitter.com/e_lancini/)
 * [ResearchGate](https://www.researchgate.net/profile/Elisa-Lancini?ev=hdr_xprf)
 
-Project Link: [https://github.com/ElisaLancini/meta-analysis/](https://github.com/ElisaLancini/meta-analysis/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
