@@ -10,7 +10,7 @@
   <h4 align="center">This repository contains all the codes of the analyses reported in the manuscript:</h3>
 </p>
 <p align="center">
-  <h2 align="center">CSF and PET biomarkers for noradrenergic dysfunction in neurodegenerative disease: a systematic review and meta-analysis</h3>
+  <h2 align="center">CSF and PET biomarkers for noradrenergic dysfunction in neurodegenerative diseases: a systematic review and meta-analysis</h3>
 </p>
 <p align="center">
   <h6 align="center">E. Lancini, F. Bartl, M. Rühling, L. Haag, NJ. Ashton, H. Zetterberg, E. Düzel, D. Haemmerer*, MJ. Betts*</h3>
