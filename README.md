@@ -99,8 +99,9 @@ Elisa Lancini, MSc
 
 A special thanks to the contributors who provided additional content in some codes:
 
-  * [Calida Pereira](https://www.linkedin.com/in/calida-pereira/)
-  * [Valentin Baumann](https://kkjp.med.ovgu.de/Team/Mitarbeiter/M_Sc_+Valentin+Baumann-p-438.html)
+  * [Calida Pereira](https://www.linkedin.com/in/calida-pereira/): Improvement of plots quality
+  * [Valentin Baumann](https://kkjp.med.ovgu.de/Team/Mitarbeiter/M_Sc_+Valentin+Baumann-p-438.html): Inputs on meta-regression models
+  * [Eleonora Cuboni](https://de.linkedin.com/in/eleonora-cuboni-927bb7187): Conversion of CSF data units of measurement
 
 <!-- AFFILIATIONS -->
 ## Authors affiliations:
