@@ -10,11 +10,12 @@
   <h4 align="center">This repository contains all the codes of the analyses reported in the manuscript:</h3>
 </p>
 <p align="center">
-  <h2 align="center">CSF and PET biomarkers for noradrenergic dysfunction in neurodegenerative diseases: a systematic review and meta-analysis</h3>
+  <h2 align="center">CSF AND PET BIOMARKERS FOR NORADRENERGIC DYSFUNCTION IN NEURODEGENERATIVE DISEASES: A SYSTEMATIC REVIEW AND META-ANALYSIS</h3>
 </p>
 <p align="center">
   <h6 align="center">E. Lancini, F. Bartl, M. Rühling, L. Haag, NJ. Ashton, H. Zetterberg, E. Düzel, D. Haemmerer*, MJ. Betts*</h3>
 </p>
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -40,12 +41,14 @@
   </ol>
 </details>
 
+Brain Communications, Volume 5, Issue 3, 2023, fcad085, DOI: https://doi.org/10.1093/braincomms/fcad085 
+<br> <i> *These authors contributed equally to this work.</br> </i>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 The noradrenergic system shows pathological modifications in aging and neurodegenerative diseases. We summarized data of studies reporting CSF NA or MHPG levels and PET MeNER measures, in controls as well as PD and ADD patients. The effect sizes obtained from the comparison between PD/ADD and control groups were combined into a pooled effect size estimate.
-DOI: XXXXXXXX
 
 ### Built With
 
